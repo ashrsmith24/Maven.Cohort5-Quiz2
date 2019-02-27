@@ -2,11 +2,8 @@ package com.zipcodewilmington.assessment2.part2.arrayutility;
 
 import com.zipcodewilmington.assessment2.TestUtils;
 import com.zipcodewilmington.assessment2.part2.ArrayUtility;
-import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-
-import java.util.Arrays;
 
 public class MergeTest {
     private ArrayUtility utility;

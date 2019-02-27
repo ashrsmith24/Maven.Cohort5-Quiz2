@@ -5,10 +5,10 @@ import java.util.List;
 public class ListUtility {
     public Boolean add(int i) {
         return null;
-    }
 
+    }
     public Integer size() {
-        return null;
+    return size();
     }
 
     public List<Integer> getUnique() {
@@ -16,11 +16,11 @@ public class ListUtility {
     }
 
     public String join() {
-        return null;
+    return null;
     }
 
     public Integer mostCommon() {
-        return null;
+return null;
     }
 
     public Boolean contains(Integer valueToAdd) {
